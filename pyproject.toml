@@ -1,0 +1,14 @@
+[project]
+name = "sdxl_sizing"
+description = "Nodes:sizing_node. Size calculation node related to image size in prompts supported by SDXL."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Ser-Hilary/SDXL_sizing"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "SDXL_sizing"
+Icon = ""
